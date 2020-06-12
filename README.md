@@ -1,7 +1,7 @@
 # code-refactor-HW1
-First homework assignment due 6/11/2020. We refactored a web page to increase accessibility 
+This project was oriented around refactoring a web page to improve accessibility, which we hoped would improve the site's search engine optimization. 
 
-## Procedural Steps
+## Procedural Steps - What We Did
 * Insert semantic HTML elements into the code
 * Ensure HTML elements follow a logical structure
 * Provide alt attributes for image elements
@@ -12,7 +12,7 @@ First homework assignment due 6/11/2020. We refactored a web page to increase ac
 Changed HTML div to header, main, aside, and footer to give code a more logical flow 
 
 ### Ensure HTML Elements follow a logical structure
-Indented code base to provide structure
+Indented code base to provide structure and cleaned up some loose closing tags
 
 ### Provide alt attributes for image elements
 Provided description for images to improve accessibility
